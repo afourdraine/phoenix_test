@@ -7,9 +7,9 @@ The script is just an automated version of the webpage.
 What the script do :
 
 * Create a table with phoenix
-* Insert data into the table
-* Query the the table (count, sum, desc)
-* Delete the created table in HBase
+* Insert data into table
+* Query the table (count, sum, desc)
+* Delete created table in HBase
 
 ## Getting Started
 
