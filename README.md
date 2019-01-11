@@ -19,7 +19,7 @@ Download the repository or clone it :
 git clone https://github.com/afourdraine/phoenix_test.git
 ```
 
-Make the python script executable :
+Make the bash script executable :
 
 ```
 chmod +x test_phoenix.sh
